@@ -1,0 +1,17 @@
+{
+  "name": "lavalink-status",
+  "version": "1.0.0",
+  "description": "Live lavalink server status in discord",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^16.0.0",
+    "erela.js": "^2.3.3",
+    "express": "^4.17.2"
+  }
+}
